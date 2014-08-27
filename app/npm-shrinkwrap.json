@@ -1,0 +1,11 @@
+{
+  "name": "App",
+  "version": "0.0.1",
+  "dependencies": {
+    "co": {
+      "version": "3.1.0",
+      "from": "co@^3.1.0",
+      "resolved": "https://registry.npmjs.org/co/-/co-3.1.0.tgz"
+    }
+  }
+}
